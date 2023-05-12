@@ -1,0 +1,7 @@
+{
+  "name": "caio-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
